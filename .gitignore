@@ -1,0 +1,7 @@
+archivo_secrerto.txt
+*.log
+logs/
+ejemplos/*
+!emeplos/ejemplo_importante.txt
+node_modules/
+
